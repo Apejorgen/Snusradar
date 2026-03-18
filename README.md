@@ -1,1 +1,11 @@
-See index.html
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  root: '.',
+  build: {
+    outDir: 'dist',
+  },
+  server: {
+    port: 3000,
+  }
+});
