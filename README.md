@@ -1,1 +1,1 @@
-See index.html.html
+See index.html
